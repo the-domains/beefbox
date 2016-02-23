@@ -1,0 +1,28 @@
+name: beefbox
+favicon: null
+layout_spectrum: 0.994102050550282
+typography_spectrum: 0.3062151793856174
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7142558037303388
+  lightness: 0.5510958656668663
+  saturation: 0.20140415476635098
+  rhythmicContrast: 0.3496987319085747
+purpose: []
